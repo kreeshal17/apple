@@ -14,7 +14,7 @@ import Login from './Component/Auth/Login.jsx';
 import SignUp from './Component/Auth/SignUp.jsx';
 import UserDashboard from './Component/User/UserDashboard.jsx';
 import Admin from './page/Admin.jsx';
-import store from './Redux/store.js';
+import store from './Redux/Store.js';
 import LoadingSpinner from './Component/Auth/LoadingSpinner.jsx';
 
 const router = createBrowserRouter([
