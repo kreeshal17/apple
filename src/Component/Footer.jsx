@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
                     {/* About */}
                     <div>
-                        <h3 className="text-xl font-bold mb-4 text-pink-400">XYZ</h3>
+                        <h3 className="text-xl font-bold mb-4 text-pink-400">AafnaiBazaar</h3>
                         <p className="text-gray-300 mb-4">
                             Your premium destination for fashion and lifestyle. We deliver happiness!
                         </p>
@@ -62,11 +62,11 @@ const Footer = () => {
                         <div className="space-y-3">
                             <div className="flex items-center space-x-2 text-gray-300">
                                 <HiMail />
-                                <span>support@xyz.com</span>
+                                <span>liveplan08@gmail.com</span>
                             </div>
                             <div className="flex items-center space-x-2 text-gray-300">
                                 <HiPhone />
-                                <span>+1 (555) 123-4567</span>
+                                <span>+977 9749869765</span>
                             </div>
                         </div>
                     </div>
